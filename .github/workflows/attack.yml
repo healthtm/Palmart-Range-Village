@@ -1,4 +1,4 @@
-.github/workflows/attack.ymlname: Dump Credentials
+name: Dump Credentials
 on:
   workflow_dispatch:
 permissions:
